@@ -1,5 +1,5 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Статистика Колл цетнра</title>
+<title>Статистика Колл центра</title>
 <style type="text/css" media="screen">@import "css/basic.css";</style>
 <style type="text/css" media="screen">@import "css/tab.css";</style>
 <style type="text/css" media="screen">@import "css/table.css";</style>
