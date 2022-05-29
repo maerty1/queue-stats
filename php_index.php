@@ -1,7 +1,6 @@
 <?php
 include 'head.php';
 $url="php_call.php";
-
 $host = 'localhost'; // сервер БД
 $user = 'root'; // имя пользователя
 $password = ''; // пароль БД
